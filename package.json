@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "remixicon": "^4.9.1",
+    "remixicon-react": "^1.0.0",
+    "tailwindcss": "^4.2.2"
+  }
+}
